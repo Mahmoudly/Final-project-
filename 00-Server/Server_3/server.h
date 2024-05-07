@@ -26,10 +26,6 @@ public slots:
             return;
         }
 
-        // Handle client connection here
-        // Include your existing logic here
-
-        // Close the socket after handling the connection
         socket.close();
     }
 
