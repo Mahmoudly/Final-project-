@@ -1,0 +1,118 @@
+{
+	"BUILD_DIR" : "F:/00-QT2/build-Server_3-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/Server_3_autogen",
+	"CMAKE_BINARY_DIR" : "F:/00-QT2/build-Server_3-Desktop_Qt_5_12_12_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "F:/00-QT2/build-Server_3-Desktop_Qt_5_12_12_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "F:/00-QT2/Server_3",
+	"CMAKE_EXECUTABLE" : "G:/00-IMT_ITIDA/03-C++/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"F:/00-QT2/Server_3/CMakeLists.txt",
+		"F:/03-Setup_QT/Tools/QtCreator/share/qtcreator/package-manager/auto-setup.cmake",
+		"F:/00-QT2/build-Server_3-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/CMakeFiles/3.28.1/CMakeSystem.cmake",
+		"G:/00-IMT_ITIDA/03-C++/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake",
+		"G:/00-IMT_ITIDA/03-C++/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake",
+		"F:/00-QT2/build-Server_3-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake",
+		"G:/00-IMT_ITIDA/03-C++/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake",
+		"G:/00-IMT_ITIDA/03-C++/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake",
+		"G:/00-IMT_ITIDA/03-C++/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake",
+		"G:/00-IMT_ITIDA/03-C++/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/share/cmake-3.28/Modules/Platform/Windows.cmake",
+		"G:/00-IMT_ITIDA/03-C++/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake",
+		"G:/00-IMT_ITIDA/03-C++/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake",
+		"G:/00-IMT_ITIDA/03-C++/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake",
+		"G:/00-IMT_ITIDA/03-C++/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake",
+		"G:/00-IMT_ITIDA/03-C++/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/share/cmake-3.28/Modules/Compiler/GNU.cmake",
+		"G:/00-IMT_ITIDA/03-C++/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"G:/00-IMT_ITIDA/03-C++/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX.cmake",
+		"G:/00-IMT_ITIDA/03-C++/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/share/cmake-3.28/Modules/Platform/Windows-GNU.cmake",
+		"F:/00-QT2/build-Server_3-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/CMakeFiles/3.28.1/CMakeRCCompiler.cmake",
+		"G:/00-IMT_ITIDA/03-C++/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/share/cmake-3.28/Modules/CMakeRCInformation.cmake",
+		"G:/00-IMT_ITIDA/03-C++/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/share/cmake-3.28/Modules/Platform/Windows-windres.cmake",
+		"G:/00-IMT_ITIDA/03-C++/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
+		"G:/00-IMT_ITIDA/03-C++/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake",
+		"F:/03-Setup_QT/5.12.12/mingw73_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"F:/03-Setup_QT/5.12.12/mingw73_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"F:/03-Setup_QT/5.12.12/mingw73_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"F:/03-Setup_QT/5.12.12/mingw73_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"F:/03-Setup_QT/5.12.12/mingw73_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"F:/03-Setup_QT/5.12.12/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"F:/03-Setup_QT/5.12.12/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"F:/03-Setup_QT/5.12.12/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"F:/03-Setup_QT/5.12.12/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"F:/03-Setup_QT/5.12.12/mingw73_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"G:/00-IMT_ITIDA/03-C++/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/share/cmake-3.28/Modules/CMakeParseArguments.cmake",
+		"F:/03-Setup_QT/5.12.12/mingw73_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake",
+		"F:/03-Setup_QT/5.12.12/mingw73_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake",
+		"F:/03-Setup_QT/5.12.12/mingw73_64/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "F:/00-QT2/Server_3",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"F:/00-QT2/Server_3/server.h",
+			"MU",
+			"EWIEGA46WW/moc_server.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "F:/00-QT2/build-Server_3-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/Server_3_autogen/include",
+	"MOC_COMPILATION_FILE" : "F:/00-QT2/build-Server_3-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/Server_3_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_NETWORK_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"F:/00-QT2/build-Server_3-Desktop_Qt_5_12_12_MinGW_64_bit-Debug",
+		"F:/00-QT2/Server_3",
+		"F:/03-Setup_QT/5.12.12/mingw73_64/include",
+		"F:/03-Setup_QT/5.12.12/mingw73_64/include/QtCore",
+		"F:/03-Setup_QT/5.12.12/mingw73_64/mkspecs/win32-g++",
+		"F:/03-Setup_QT/5.12.12/mingw73_64/include/QtNetwork",
+		"F:/03-Setup_QT/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++",
+		"F:/03-Setup_QT/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32",
+		"F:/03-Setup_QT/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward",
+		"F:/03-Setup_QT/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include",
+		"F:/03-Setup_QT/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed",
+		"F:/03-Setup_QT/Tools/mingw730_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"F:/03-Setup_QT/Tools/mingw730_64/bin/g++.exe",
+		"-std=gnu++11",
+		"-dM",
+		"-E",
+		"-c",
+		"G:/00-IMT_ITIDA/03-C++/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r4/mingw64/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "F:/00-QT2/build-Server_3-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/Server_3_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "F:/00-QT2/build-Server_3-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/CMakeFiles/Server_3_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "F:/03-Setup_QT/5.12.12/mingw73_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 12,
+	"SETTINGS_FILE" : "F:/00-QT2/build-Server_3-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/CMakeFiles/Server_3_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "F:/00-QT2/Server_3/main.cpp", "MU", null ],
+		[ "F:/00-QT2/Server_3/server.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
