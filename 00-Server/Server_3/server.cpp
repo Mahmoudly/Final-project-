@@ -31,12 +31,7 @@ void Server::incomingConnection(qintptr socketDescriptor) {
     Worker *worker = new Worker(socketDescriptor);
     QThread *thread = new QThread;
     worker->moveToThread(thread);
-    // Clean up thread and worker when finished
-//    connect(thread, &QThread::finished, worker, &QObject::deleteLater);
-//    connect(thread, &QThread::finished, thread, &QObject::deleteLater);
 
-//    // Start processing
-//    connect(thread, &QThread::started, worker, &Worker::process);
 
     thread->start();
     QTcpSocket *socket = new QTcpSocket(this);
