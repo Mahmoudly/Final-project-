@@ -1,0 +1,4 @@
+F:/00-QT2/build-NetWork-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/CMakeFiles/NetWork.dir
+F:/00-QT2/build-NetWork-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+F:/00-QT2/build-NetWork-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+F:/00-QT2/build-NetWork-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/CMakeFiles/NetWork_autogen.dir
